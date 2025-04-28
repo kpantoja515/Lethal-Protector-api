@@ -1,0 +1,30 @@
+{
+    "loloyjayr33": {
+        "id": "d2a8921b-17ff-5689-9ecd-31a9800410d2",
+        "fullName": "Luisito O Libardo Jr.",
+        "hash": "$2b$12$kwlPfOPcEUmg/qbtZQKpQeH0PG3qu6xhPTgWtcMdTiSoCgt.IdU6S",
+        "userLevel": 3,
+        "createdAt": 1745811471
+    },
+    "rocs143": {
+        "id": "4ef912c8-73be-56c2-9f88-26151bf09585",
+        "fullName": "Rosario Rocabela",
+        "hash": "$2b$12$yYPbkXdpejkzGwr3AARFee/tox4kvAhaKRGWcWIti1/DDv3KaeMki",
+        "userLevel": 2,
+        "createdAt": 1745811579
+    },
+    "jason123": {
+        "id": "9ebb7bee-dc07-5e01-98ba-fbe84fad2297",
+        "fullName": "Jason Rey Manlangit",
+        "hash": "$2b$12$V6.N13T81Us0e0D53Ig7GeDi499EMKp/P9OVRzm1dAsWeqYxG3gDO",
+        "userLevel": 1,
+        "createdAt": 1745811682
+    },
+    "litoy123": {
+        "id": "f60e3daa-383a-5e7d-9be2-3a13d0e1ec21",
+        "fullName": "Litoy Libardo",
+        "hash": "$2b$12$9QduY9ikc3QyrkubD9WmQ.kUJRWqAa8xhHug6swYwmIZQ9XTt/ETq",
+        "userLevel": 0,
+        "createdAt": 1745811767
+    }
+}
