@@ -14,9 +14,7 @@ CORS(app)
 
 @app.route("/")
 def index():
-    return set_cors({
-        "message": "Welcome to Lethal Protector-API!"
-    })
+    return set_cors({})
 
 @app.route("/authorize", methods=["POST"])
 def authorize():
